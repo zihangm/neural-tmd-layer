@@ -6,7 +6,9 @@ This repository contains the reference code for our paper [Neural TMDlayer: Mode
 </p>
 Our proposed TMDlayer models the stochastic flow of features, and in principle, can be added on top of any DNN layer to bring the benefits. In addition, it immediately enables doing transductive inference after added into the DNN model.
 
+
 To have a quick and easy understanding of our TMDlayer, you can take a look at our video on youtube: [https://www.youtube.com/watch?v=vR3nrYJqcgQ](https://www.youtube.com/watch?v=vR3nrYJqcgQ)
+
 
 ## Requirements
 * Python 3

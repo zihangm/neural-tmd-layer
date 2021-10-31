@@ -1,3 +1,6 @@
 [submodule "PCT_Pytorch"]
 	path = PCT_Pytorch
 	url = git@github.com:zihangm/PCT_Pytorch.git
+[submodule "fewshot-egnn"]
+	path = fewshot-egnn
+	url = git@github.com:zihangm/fewshot-egnn.git

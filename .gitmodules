@@ -4,3 +4,6 @@
 [submodule "fewshot-egnn"]
 	path = fewshot-egnn
 	url = git@github.com:zihangm/fewshot-egnn.git
+[submodule "pygcn_tmd"]
+	path = pygcn_tmd
+	url = git@github.com:shubham745/pygcn.git

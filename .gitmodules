@@ -7,3 +7,6 @@
 [submodule "long_tailed_tmd"]
 	path = long_tailed_tmd
 	url = https://github.com/shubham745/LTR-weight-balancing.git
+[submodule "pygcn_tmd"]
+	path = pygcn_tmd
+	url = git@github.com:shubham745/pygcn.git

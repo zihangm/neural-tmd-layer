@@ -31,6 +31,39 @@ Follow the instructions in ./fewshot-egnn to prepare the data and conduct traini
 
 Our TMDlayer is added in **./fewshot-egnn/model.py**
 
+
+
+## Use TMDlayer in pygcn ([PYGCN](https://github.com/shubham745/pygcn))
+```python
+cd ./pygcn
+python train.py
+```
+
+Follow the instructions in ./pygcn to prepare the data and conduct training/testing using our TMDlayer on top of the GCN model.
+
+Our TMDlayer is added in **./pygcn/models.py**
+
+
+
+## Use TMDlayer in  long-tailed recognition ([LongTail](https://github.com/shubham745/LTR-weight-balancing/))
+```python
+cd ./LTR-weight-balancing
+```
+
+Follow the instructions in ./LTR-weight-balancingto prepare the data and conduct training/testing using our TMDlayer.
+
+Our TMDlayer is added in **./LTR-weight-balancing/utils/network_arch_resnet.py**
+
+We show examples of using this in **./LTR-weight-balancing/demo1_first-stage-training.ipynb** and **./LTR-weight-balancing/demo2_second-stage-training.ipynb**
+
+
+
+## Use TMDlayer in FashionMNIST ([FashionMNIST](https://colab.research.google.com/drive/1PHb1PcfTMIZXCeJVxTMiPAQH285Pae3f?usp=sharing))
+
+
+
+
+
 ## Reference
 If you find our work useful, please consider citing our paper.
 ```

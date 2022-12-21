@@ -43,6 +43,8 @@ Follow the instructions in ./pygcn to prepare the data and conduct training/test
 
 Our TMDlayer is added in **./pygcn/models.py**
 
+[Link to Results](https://drive.google.com/file/d/1XLXUS1EkZfNxpdG_Jtd-1DER7NG0WHEc/view?usp=sharing)
+
 
 
 ## Use TMDlayer in  long-tailed recognition ([LongTail](https://github.com/shubham745/LTR-weight-balancing/))
@@ -56,13 +58,17 @@ Our TMDlayer is added in **./LTR-weight-balancing/utils/network_arch_resnet.py**
 
 We show examples of using this in **./LTR-weight-balancing/demo1_first-stage-training.ipynb** and **./LTR-weight-balancing/demo2_second-stage-training.ipynb**
 
+[Link to Results](https://drive.google.com/file/d/1XLXUS1EkZfNxpdG_Jtd-1DER7NG0WHEc/view?usp=sharing)
+
 
 
 ## Use TMDlayer in FashionMNIST ([FashionMNIST](https://colab.research.google.com/drive/1PHb1PcfTMIZXCeJVxTMiPAQH285Pae3f?usp=sharing))
 
+See TMD_FashionMNIST.ipynb
 
 
 
+[Link to Results](https://drive.google.com/file/d/1XLXUS1EkZfNxpdG_Jtd-1DER7NG0WHEc/view?usp=sharing)
 
 ## Reference
 If you find our work useful, please consider citing our paper.
